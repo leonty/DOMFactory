@@ -7,7 +7,7 @@
 #include <QtCore/QBuffer>
 
 #include <QtXml/QDomDocument>
-#include <QtXml/QXmlStreamReader>
+#include <QtCore/QXmlStreamReader>
 
 namespace DomFactory
 {
